@@ -1,3 +1,3 @@
-name=input("Enter your name: ")
-age=int(input("Enter your age: "))
-print(f"Hello {name}, you are {age} years old.")
+num1=float(input("Enter first number: "))
+num2=float(input("Enter second number: "))
+print("Sum: ", num1+num2)
